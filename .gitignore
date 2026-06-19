@@ -12,7 +12,6 @@ backend/target/
 *.class
 *.jar
 *.war
-.mvn/
 
 # IDEs
 .idea/
